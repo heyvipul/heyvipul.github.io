@@ -10,6 +10,7 @@ export default function About() {
 
   //hello world
   //hello world
+  //hello world
 
   useEffect(() => {
     AOS.init();
