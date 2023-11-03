@@ -9,8 +9,7 @@ export default function About() {
   };
 
   //hello world
-  //hello world
-  //hello world
+  // <h1></h1>
 
   useEffect(() => {
     AOS.init();
@@ -31,7 +30,7 @@ export default function About() {
           technologies like MongoDB. My true passion lies in crafting websites that not only boast impressive aesthetics but also elicit 
           exclamations of delight from users. I strive for excellence and pay meticulous attention to detail, enabling me to conquer even 
           the most intricate coding challenges. When I'm not engrossed in coding, I love immersing myself in the latest tech trends and 
-          exploring new possibilities in the digital world.
+          exploring new possibilities in the digital world..
             <br />
           </p>
           <br />
