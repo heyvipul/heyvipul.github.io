@@ -765,6 +765,7 @@ ul.tech-used li{
 #social-icons li{
   margin: 10px 0;
   transition: all .3s;
+  /* color: wheat; */
 }
 
 #social-icons li:hover{
