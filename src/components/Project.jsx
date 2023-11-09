@@ -46,6 +46,8 @@ export default function Projects() {
                 <br />
                 <br />
                 <br />
+                <br />
+                <br />
                 <div className="project-links">
                   <a className="project-github-link" rel="noreferrer" target="_blank" href={project.projectLinkGithub}>
                     <FontAwesomeIcon icon={faGithub} />

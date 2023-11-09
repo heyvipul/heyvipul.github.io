@@ -7,11 +7,11 @@ export default function Navbar({ handleClick, boolean }) {
     window.open('https://drive.google.com/file/d/1IcTyuwGeJ4zmFrrspueeFuDngDvmlZZ1/view?usp=sharing', '_blank');
   };
 
-  const topwindows = () => {
-    window.scrollTo({
-      top: 0,
-    });
-  }
+  // const topwindows = () => {
+  //   window.scrollTo({
+  //     top: 0,
+  //   });
+  // }
 
   return (
     <nav id="nav-menu" onClick={handleClick}>

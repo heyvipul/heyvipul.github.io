@@ -31,11 +31,15 @@ html {
 }
 .retro{
   font-family: 'Cinzel Decorative', cursive;
+  /* font-family: 'Courier New', Courier, monospace; */
 }
 body {
   position: relative;
   /* font-family: 'Montserrat', sans-serif, Verdana, Geneva, Tahoma; */
-  font-family: cursive;
+  /* font-family: cursive; */
+  font-family: 'Varela Round', sans-serif;
+  
+
   background: #232322;
   /* background: white; */
   background-size:cover;
@@ -672,6 +676,7 @@ list-style: none;
 }
 ul.tech-used{
   color: var(--lighter-red);
+  color: gold;
   font-size: 17px;
   font-weight: 500;
   list-style: none;
@@ -688,8 +693,9 @@ ul.tech-used li{
   /* color: rgb(77, 24, 36); */
 }
 .project-links a{
+  color: wheat;
   font-size: 30px;
-  margin: 20px 10px;
+  margin: 20px 10px;  
 }
 .project-links a:hover{
   scale: 1.2;
@@ -748,6 +754,7 @@ ul.tech-used li{
 }
 
 #social-icons{
+  /* color: wheat; */
   position: relative;
   list-style: none;
   display: flex;
