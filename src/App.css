@@ -3,7 +3,7 @@
 :root {
   --black: rgb(119, 119, 119);
   /* --light-red: rgb(21, 246, 73); */
-  --light-red: orange;
+  --light-red: orangered;
   --lighter-red:#f8e2dc;
   --brown-red:rgb(27, 25, 25);
   --font-small:20px;
@@ -676,9 +676,9 @@ list-style: none;
 }
 ul.tech-used{
   color: var(--lighter-red);
-  color: gold;
+  color: orangered;
   font-size: 17px;
-  font-weight: 500;
+  font-weight:bolder;
   list-style: none;
   display: flex;
   justify-content: space-around;

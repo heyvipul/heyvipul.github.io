@@ -4,7 +4,7 @@ import { faBars, faXmark } from "@fortawesome/free-solid-svg-icons";
 export default function Navbar({ handleClick, boolean }) {
 
   const handleDownload = () => {
-    window.open('https://drive.google.com/file/d/1IcTyuwGeJ4zmFrrspueeFuDngDvmlZZ1/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1N09JQvxlfTUf83YdYxhENpZ5gtlUagpO/view?usp=sharing', '_blank');
   };
 
   // const topwindows = () => {
