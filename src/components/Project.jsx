@@ -18,6 +18,7 @@ export default function Projects() {
       <h1 className="heading">
         <span className="sauce">Projects</span>
       </h1>
+
       <div className="">
         <div className="project-cards">
           {projects?.map((project, index) => (
@@ -39,10 +40,6 @@ export default function Projects() {
                     <li  key={index}>{tech}</li>
                   ))}
                 </ul>
-                <br />
-                <br />
-                <br />
-                <br />
                 <br />
                 <br />
                 <br />

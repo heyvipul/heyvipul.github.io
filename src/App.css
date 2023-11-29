@@ -3,7 +3,7 @@
 :root {
   --black: rgb(119, 119, 119);
   /* --light-red: rgb(21, 246, 73); */
-  --light-red: orangered;
+  --light-red: orange;
   --lighter-red:#f8e2dc;
   --brown-red:rgb(27, 25, 25);
   --font-small:20px;
@@ -614,6 +614,7 @@ list-style: none;
   grid-template-columns: repeat(1, 1fr);
   margin-top: 50px;
   border-radius: 10px;
+  /* margin-bottom: 10px; */
   overflow: hidden;
 }
 .project-img{
@@ -655,11 +656,12 @@ list-style: none;
 }
 .project-title{
   font-size: clamp(24px, 5vw, 28px);
-  color: var(--light-red);
+  /* color: var(--light-red); */
+  color: orangered;
   /* color: black; */
   text-align: center;
   font-weight: 600;
-  margin-top: 10px;
+  /* margin-top: -45px; */
   opacity: .9;
   padding-left: 1px;
 }
