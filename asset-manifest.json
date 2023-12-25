@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a32a437.css",
-    "main.js": "/static/js/main.ee92aad1.js",
+    "main.css": "/static/css/main.e9dbd709.css",
+    "main.js": "/static/js/main.7b616e2b.js",
     "static/media/Bewakoof.png": "/static/media/Bewakoof.04f77b0455b934d61d9e.png",
     "static/media/bluefly.png": "/static/media/bluefly.a0b772359c0fabe9a3f0.png",
     "static/media/Travelious.png": "/static/media/Travelious.2f4b7b888c00a9bcc58c.png",
     "static/media/MineWine.png": "/static/media/MineWine.168e60d1c2a32c2e35ff.png",
-    "static/media/VipulGirhe_Resume.pdf": "/static/media/VipulGirhe_Resume.932bde5607de1ad34a28.pdf",
+    "static/media/Vipul Girhe Resume.pdf": "/static/media/Vipul Girhe Resume.7e19ea927f0054f7ec1b.pdf",
     "static/media/profile.jpeg": "/static/media/profile.32ec99ad643684b5c9e5.jpeg",
     "index.html": "/index.html",
-    "main.0a32a437.css.map": "/static/css/main.0a32a437.css.map",
-    "main.ee92aad1.js.map": "/static/js/main.ee92aad1.js.map"
+    "main.e9dbd709.css.map": "/static/css/main.e9dbd709.css.map",
+    "main.7b616e2b.js.map": "/static/js/main.7b616e2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a32a437.css",
-    "static/js/main.ee92aad1.js"
+    "static/css/main.e9dbd709.css",
+    "static/js/main.7b616e2b.js"
   ]
 }
