@@ -1,10 +1,10 @@
-import resume from './../resume/VipulGirhe_Resume.pdf'
+import resume from './../resume/Vipul Girhe Resume.pdf'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars, faXmark } from "@fortawesome/free-solid-svg-icons";
 export default function Navbar({ handleClick, boolean }) {
 
   const handleDownload = () => {
-    window.open('https://drive.google.com/file/d/1N09JQvxlfTUf83YdYxhENpZ5gtlUagpO/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1EgalkCUJq4B16x6Z0PdfIuBiKZTe027f/view?usp=sharing', '_blank');
   };
 
   // const topwindows = () => {
@@ -62,7 +62,7 @@ export default function Navbar({ handleClick, boolean }) {
       <a 
       href={resume} 
       onClick={handleDownload} 
-      rel="noreferrer" download={'VipulGirhe_Resume'} id="resume-button-1" className="contact-button nav-link resume resume-button second-btn">
+      rel="noreferrer" download={'Vipul Girhe Resume'} id="resume-button-1" className="contact-button nav-link resume resume-button second-btn">
         Resume</a>
     </nav>
   );

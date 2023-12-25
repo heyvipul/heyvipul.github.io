@@ -28,7 +28,7 @@ export default function Contact() {
         <div id="contact-phone" className="button-container">
           <a
             className="contact-button"
-            href="tel:+919860409963"
+            href="tel:9860409963"
           >
             Give a Ring
           </a>
