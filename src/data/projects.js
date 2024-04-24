@@ -14,6 +14,17 @@ export default function getProjects() {
       {
    
         id: 2,
+        image:'portfolio.jpg',
+        projectTitle: "Updated Portfolio",
+        projectInfo: 
+        "Hi Everyone, I am Vipul Girhe a Full Stack Developer who loves solving problems and building projects. I am equipped with a variety of technologies and tools to help me build the best possible product.",
+        techUsed: ["Vite", "MaterialUi", "Javascript", "React-icons"],
+        projectLinkHosted: "https://heyvipul.vercel.app/",
+        projectLinkGithub: "https://github.com/heyvipul/newPortfolio",
+      },
+      {
+   
+        id: 3,
         image:'chatapplication.jpg',
         projectTitle: "RealTime Chat Application",
         projectInfo:
@@ -24,7 +35,7 @@ export default function getProjects() {
       },
       {
    
-        id: 3,
+        id: 4,
         image:'CrytpoExplorer.jpg',
         projectTitle: "Crypto Explorer",
         projectInfo:
@@ -35,7 +46,7 @@ export default function getProjects() {
       },
       {
    
-        id: 3,
+        id: 5,
         image:'fullstackProject.jpg',
         projectTitle: "Full Stack Project",
         projectInfo:
@@ -46,7 +57,7 @@ export default function getProjects() {
       },
       {
        
-        id: 4,
+        id: 6,
         image:'MineWine.png',
         projectTitle: "MineWine Clone",
         projectInfo:
@@ -57,7 +68,7 @@ export default function getProjects() {
         projectLinkGithub: "https://github.com/heyvipul/WineProject_Collab",
       },
       {
-        id: 5,
+        id: 7,
         projectTitle: "BlueFly Clone",
         image:"bluefly.png",
         projectInfo:
