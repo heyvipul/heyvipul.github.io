@@ -664,7 +664,7 @@ list-style: none;
 }
 
 .project-card:hover .project-title {
-  color: orangered;
+  color: rgb(138, 184, 46);
   transform: scale(1.1); /* Zoom in on hover */
 }
 

@@ -1,6 +1,6 @@
 import React,{useEffect} from "react";
 import {DiMongodb, DiHtml5} from 'react-icons/di'
-import {SiExpress,SiCss3, SiRedux,SiJavascript,SiReact,SiPostman,SiVite,SiNetlify,SiReplit} from 'react-icons/si'
+import {SiExpress,SiCss3, SiRedux,SiJavascript,SiReact,SiPostman,SiVite,SiNetlify,SiReplit, SiTailwindcss, SiNextdotjs, SiSocketdotio} from 'react-icons/si'
 import {FaBootstrap} from "react-icons/fa"
 import {FaNodeJs, FaGitSquare, FaJava} from 'react-icons/fa'
 import {TbBrandVscode} from 'react-icons/tb'
@@ -49,7 +49,13 @@ export const Skills = () => {
               <div className="skills-card-name" ><FaBootstrap className="skills-card-img" color="rgb(21, 246, 73)"/> BootStrap</div>
             </li>
             <li className="skills-card">
-              <div className="skills-card-name" ><FaJava className="skills-card-img" fontSize={'27px'} color="rgb(21, 246, 73)"/> Java</div>
+              <div className="skills-card-name" ><SiTailwindcss className="skills-card-img" color="rgb(21, 246, 73)"/> Tailwind</div>
+            </li>
+            <li className="skills-card">
+              <div className="skills-card-name" ><SiNextdotjs className="skills-card-img" color="rgb(21, 246, 73)"/> Next.js</div>
+            </li>
+            <li className="skills-card">
+              <div className="skills-card-name" ><SiSocketdotio className="skills-card-img" fontSize={'27px'} color="rgb(21, 246, 73)"/> Socket.io</div>
             </li>
           </ul>
         <p data-aos="fade-up" style={{marginTop:'3rem'}}>Here are a few Tools I’ve been working with recently:</p>
