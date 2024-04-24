@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e9dbd709.css",
-    "main.js": "/static/js/main.7b616e2b.js",
+    "main.css": "/static/css/main.2a5f0b40.css",
+    "main.js": "/static/js/main.3209ad78.js",
     "static/media/Bewakoof.png": "/static/media/Bewakoof.04f77b0455b934d61d9e.png",
     "static/media/bluefly.png": "/static/media/bluefly.a0b772359c0fabe9a3f0.png",
     "static/media/Travelious.png": "/static/media/Travelious.2f4b7b888c00a9bcc58c.png",
     "static/media/MineWine.png": "/static/media/MineWine.168e60d1c2a32c2e35ff.png",
     "static/media/Vipul Girhe Resume.pdf": "/static/media/Vipul Girhe Resume.7e19ea927f0054f7ec1b.pdf",
+    "static/media/CrytpoExplorer.jpg": "/static/media/CrytpoExplorer.ef4e46025b5a2fccaaf0.jpg",
+    "static/media/portfolio.jpg": "/static/media/portfolio.2d45735f45473e595ed7.jpg",
+    "static/media/fullstackProject.jpg": "/static/media/fullstackProject.b89fd048c9c5f9563526.jpg",
+    "static/media/chatapplication.jpg": "/static/media/chatapplication.f576c9de3bb43a349b10.jpg",
     "static/media/profile.jpeg": "/static/media/profile.32ec99ad643684b5c9e5.jpeg",
     "index.html": "/index.html",
-    "main.e9dbd709.css.map": "/static/css/main.e9dbd709.css.map",
-    "main.7b616e2b.js.map": "/static/js/main.7b616e2b.js.map"
+    "main.2a5f0b40.css.map": "/static/css/main.2a5f0b40.css.map",
+    "main.3209ad78.js.map": "/static/js/main.3209ad78.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9dbd709.css",
-    "static/js/main.7b616e2b.js"
+    "static/css/main.2a5f0b40.css",
+    "static/js/main.3209ad78.js"
   ]
 }
